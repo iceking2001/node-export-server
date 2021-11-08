@@ -80,6 +80,7 @@ const cdnMapCollection = [];
 const cdnScriptsCommon = [
     "{{version}}/highcharts-3d.js",
     "{{version}}/modules/data.js",
+    "{{version}}/modules/no-data-to-display.js",
     "{{version}}/modules/funnel.js",
     "{{version}}/modules/solid-gauge.js",
     "{{version}}/modules/heatmap.js",
